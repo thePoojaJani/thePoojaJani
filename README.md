@@ -7,19 +7,12 @@
 
 
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Website Development & Data Scientist
+👩‍💻 I'm currently working on exterior and interior rendering projects.
 
-🧠 I'm currently learning Data Scientist
+👯‍♀️ I'm looking to collaborate on exterior randering Projects.
 
-👯‍♀️ I'm looking to collaborate on website Designing & Data Scientist Projects
+🤔 I'm looking for help with in Designing.
 
-🤔 I'm looking for help with in Designing & Animations
-
-
-
-- 👋 Hi, I’m @thePoojaJani
-- 👀 I’m interested in Website Development & Data Scientist
 
 
 <!---
